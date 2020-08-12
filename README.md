@@ -1,3 +1,5 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+---
 <img src="https://raw.githubusercontent.com/VishnuRathore98/VishnuRathore98/master/cover.svg?sanitize=true" width='100%'/>
 
 <div align="center">
